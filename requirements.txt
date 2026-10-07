@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+streamlit
+
+streamlit
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
